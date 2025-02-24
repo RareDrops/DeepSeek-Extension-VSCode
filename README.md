@@ -42,4 +42,4 @@ npm install
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 ## License
-[MIT](LICENSE) © [RareDrop](https://github.com/RareDrops) 
+MIT © [RareDrop](https://github.com/RareDrops) 
