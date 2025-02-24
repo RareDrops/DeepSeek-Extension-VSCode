@@ -53,7 +53,7 @@ function activate(context) {
                 let responseText = '';
                 try {
                     const streamResponse = await ollama_1.default.chat({
-                        model: 'deepseek-r1:32b',
+                        model: 'deepseek-r1:7b',
                         messages: [{ role: 'user', content: userPrompt }],
                         stream: true
                     });
